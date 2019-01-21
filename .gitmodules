@@ -1,0 +1,4 @@
+[submodule "emiprogithub/MultiRepTest1"]
+	path = emiprogithub/MultiRepTest1
+	url = git@github.com:emiprogithub/MultiRepTest1.git
+	branch = master
